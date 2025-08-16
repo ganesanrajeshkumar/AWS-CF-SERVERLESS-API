@@ -1,5 +1,6 @@
-#Create a cloudformation for a serverless rest api
+# Create a cloudformation for a serverless rest api
 Run the batch file - deploy-stack.bat
 
-Results screenshots :
+## Results screenshots :
+
 ![alt text](image.png)
